@@ -1,2 +1,2 @@
 # exercises
-Exercises while praciticing
+Exercises while practicing.
